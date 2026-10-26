@@ -226,4 +226,4 @@ simply how these tools work in practice.
 
 ---
 
-*warframe-companion-pack · Updated 2026-10-25 · Shared under the MIT License*
+*warframe-companion-pack · Updated 2026-10-26 · Shared under the MIT License*
